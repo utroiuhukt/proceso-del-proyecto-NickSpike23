@@ -2,6 +2,7 @@
 # Essay Writing Assignment: Process and Final Project
 
 Prueba de edición en github
+
 Welcome to your essay writing assignment repository! This repository is designed 
 to help you organize your drafts, sections, and final essay. By using this 
 repository, you’ll not only improve your writing skills but also learn how 
